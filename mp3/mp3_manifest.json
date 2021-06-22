@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "filename": "break_stuff_intro.mp3",
+      "name": "Break Stuff",
+      "id": "b01"
+    },
+    {
+      "filename": "curb_yr_enthusiasm.mp3",
+      "name": "Larry David Simulator",
+      "id": "b02"
+    },
+    { "filename": "seinfeld_bass.mp3",
+      "name": "Seinfeld Bassline",
+      "id": "b03"
+    },
+    {
+      "filename": "disturbed.mp3",
+      "name": "Down with the Sickness",
+      "id": "b04"
+    }
+  ]
+}
